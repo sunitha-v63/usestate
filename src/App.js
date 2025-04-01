@@ -12,10 +12,23 @@ import Task9 from './Components/Task9';
 import Task10 from './Components/Task10';
 import Task11 from './Components/Task11';
 import Task12 from './Components/Task12';
+import Task13 from './components1/Task13';
+import Task14 from './components1/Task14';
+import Task15 from './components1/Task15';
+import Task16 from './components1/Task16';
+import Task17 from './components1/Task17';
+import Task18 from './components1/Task18';
+import Task19 from './components1/Task19';
+import Task20 from './components1/Task20';
+import Task21 from './components1/Task21';
+import Task22 from './components1/Task22';
+import Task24 from './components1/Task24';
+import Task25 from './components1/Task25';
 
 function App() {
   return (
    <>
+   <h1>Day6 & Day7</h1>
    <Task1/>
    <Task2/>
    <Task3/>
@@ -28,6 +41,19 @@ function App() {
    <Task10/>
    <Task11/>
    <Task12/>
+   <h1 style={{color:"blue"}}>Handling Events</h1>
+   <Task13/>
+   <Task14/>
+   <Task15/>
+   <Task16/>
+   <Task17/>
+   <Task18/>
+   <Task19/>
+   <Task20/>
+   <Task21/>
+   <Task22/>
+   <Task24/>
+   <Task25/>
    </>
   );
 }

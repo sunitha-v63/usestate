@@ -30,7 +30,6 @@ function Task10() {
       </button><br></br>
       <button 
         onClick={removeLastTask}
-        disabled={tasks.length === 0}
       >
         Remove Last Task
       </button>

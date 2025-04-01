@@ -29,9 +29,8 @@ function Task11() {
       </button>
       <button 
         onClick={removeLastTask}
-        disabled={state.tasks.length === 0}
       >
-        Remove Last Task
+        Remove
       </button>
       <div>
         {state.tasks.length === 0 ? (
