@@ -39,7 +39,7 @@ import Task_12 from './Day9/Task_12';
 function App() {
   return (
    <>
-   <h1>Day6 & Day7 & Day9</h1>
+   <h1>Day6 & Day7 & Day_9</h1>
    <Task1/>
    <Task2/>
    <Task3/>
